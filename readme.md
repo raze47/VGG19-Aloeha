@@ -1,0 +1,1 @@
+VGG19_1_10 holds the best performance results of 84% accuracy. We just tweaked with the activation functions, image size, learning rate, alpha of leaky rel-u, etc. The dataset is available on https://drive.google.com/drive/folders/13avyGSIDfrTARKZd5gU4VWJjKmw19f8g?usp=sharing
